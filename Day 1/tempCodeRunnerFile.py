@@ -1,1 +1,0 @@
-if similarityScore > 0: 
