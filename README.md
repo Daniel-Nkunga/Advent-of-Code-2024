@@ -15,7 +15,7 @@ A lot of my other attempts at the Advent of Codes last year have ended with me g
 ### Part 1
 Though this sounded like an interesting enough coding challenge, I concluded the easiest approach would be to use a spreadsheet. After copy-pasting the input, formatting the data to split on spaces, reordering each column to arrange themselves "alphabetically" (in this case it would sort numerically since it was only dealing with numbers), finding the absolute difference of the columns and summing them were two easy Excel functions.
 
-[Day 1 Part 1 Solution](link)
+[Day 1 Part 1 Solution](https://github.com/Daniel-Nkunga/Advent-of-Code-2024/blob/main/Day%201/AoC2024%20D1P1.csv)
 
 ### Part 2
 This is just above my Excel skills. Though I'm sure some cool function exists for it, I do not know them and didn't know the best way to search them up [if I had to guess, the key words would be "repetition" or "duplicates"]. Advent of Code also provides a great excuse to practice languages I'm out of practice with and, given I've been learning C++ in school for the past four months, I decided to take a break and program in Python. I quickly discovered I am gratefully out of practice with Python; a fact that is sure to make the future challenges a lot more fun.
@@ -24,4 +24,4 @@ Reading in the file was as simple as remembering my roots, and internalizing tha
 Gathering the similarity score was another simple double for-loop. I am confident I could do this in an nlogn format by at least sorting the list and if I had to guess, extensions like numpy could help remove the second for loop entirely with a fancy function, but, alas, here we are. Here is also where Python interpreting the input as strings came to bite me. I believe it was somehow interpreting the ASCII values of each number leading to ridiculously higher numbers than wanted. 
 Summing the terms was done in another simple function at the bottom of the code.
 
-[Day 1 Part 2 Solution](link)
+[Day 1 Part 2 Solution](https://github.com/Daniel-Nkunga/Advent-of-Code-2024/blob/main/Day%201/AoCD1P2.py)
