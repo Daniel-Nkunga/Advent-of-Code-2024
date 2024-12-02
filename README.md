@@ -4,6 +4,8 @@ My solutions for the Advent of Code 2024 challenges. Not all of them will be cod
 ## Process Overview
 A lot of my other attempts at the Advent of Codes last year have ended with me getting roadblocked becuase I wanted to approach everything as a coding challenge. My goal this year is just to get 15 stars (the amount my Computer Science teacher challenges us to get) by any means possible. I'm treating this more as a porblem solving chanllenge than a coding one. I will still code solutions as necissary, but spreadsheets, diagrams, brute foce logic, and all other approaches are fair game.
 
+Also the solutions here will be talked about in a very casual manner. If you want to discuss my though process for each problem in a more serious/profession manner, please contact me at daniel.s.nkunga@gmail.com.
+
 ## Table of Contents
 - [Advent-of-Code-2024](#advent-of-code-2024)
   - [Table of Contents](#table-of-contents)
